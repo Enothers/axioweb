@@ -52,7 +52,7 @@ export default function Hero() {
           <div className="mt-14 flex flex-col sm:flex-row justify-center gap-4">
 
             <Button>
-    Démarrer un projet
+    Démarrer un projet TES TEST TEST
 </Button>
 
 <Button variant="secondary">
