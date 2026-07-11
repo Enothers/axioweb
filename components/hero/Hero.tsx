@@ -12,7 +12,7 @@ export default function Hero() {
 
     <DotBackground />
 
-    <GradientBlur />
+    {/* <GradientBlur /> */}
 
     <Container>
 
